@@ -1,10 +1,17 @@
 ---
 layout: post
-title: You're up and running!
+title:OBJECT ORIENTED PROGRAMMING
 ---
+###Object oriented Programming
+It makes programming more flexible
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+In the OOP code you determine an object and then list all of the functions it needs to perform
+OOP creates a new object that keeps all of the function it needs to perform
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+OOP doesnt need to touch the working code but it types in a new function thats gives all capabilities
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+OOP is alot neater and organised because if you want to add a new capability you just create a new function without touching any of the old code
+
+OOP requires less code to get things done because of a concept called INHERITANCE.In Inheritance the object is refered to as the super class
+
+Each object has all variables in instance variable oop each object will recieve function called method oop 
